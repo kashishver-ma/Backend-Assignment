@@ -13,7 +13,7 @@ A FastAPI-based webhook ingestion service with HMAC verification, SQLite persist
 
 ## Quick Start
 
-### Using Docker (Recommended)
+### Using Docker 
 
 ```bash
 # Set environment variables
